@@ -5,7 +5,7 @@
 - [2.Descrição](#2-descrição)<br>
 - [3.Requisitos Funcionais](#3-Requisitos-Funcionais)<br>
 - [4.Requisitos Não Funcionais](#4-Requisitos-Não-Funcionais)<br>
-- [5. Protótipos de Telas (Mockups)](#5-Protótipos-de-Telas-(Mockups))<br>
+- [5. Protótipos de Telas (Mockups)](#5-Protótipos-de-Telas)<br>
 
 
 ## 1. Equipe
@@ -95,7 +95,7 @@ __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
 
 
-### 5. Protótipos de Telas (Mockups)
+### 5. Protótipos de Telas
 
 [Mockup feito com Balsamiq](pdf's/prototipo_bombeiros.pdf)
 
