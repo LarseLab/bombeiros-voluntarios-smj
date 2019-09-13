@@ -6,9 +6,9 @@
 
 ### 2 - Requisitos Não Funcionais
 
-RF001 | Controle de Ocorrencias |
+__RF001__ | __Controle de Ocorrencias__ |
 :---------: | ---------- | 
-| Descrição | O sistema deve realizar o controle de ocorrencias, armazenar dados como o endereço da ocorrencias, a data e a hora. A ocorrencias deve ser vinculado ao condutor que a aceitou, e os bombeiros que aceitaram.|
-Responsável |  Larse  |
-Interessados |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
-Prioridade | [   ] Desejável [   ] Importante [ X ] Imprescindível   |
+| __Descrição__ | O sistema deve realizar o controle de ocorrencias, armazenar dados como o endereço da ocorrencias, a data e a hora. A ocorrencias deve ser vinculado ao condutor que a aceitou, e os bombeiros que aceitaram.|
+__Responsável__ |  Larse  |
+__Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
+__Prioridade__ | [] Desejável  [] Importante  [ X ] Imprescindível   |
