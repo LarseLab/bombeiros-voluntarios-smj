@@ -3,7 +3,7 @@
 ## Sumário
 - [1.Equipe](#1-equipe)<br>
 - [2.Descrição](#2-descrição)<br>
-- [3.Requisitos Não Funcionais](#3-Requisitos-Não-Funcionais)<br>
+- [3.Requisitos Não Funcionais](#3-Requisitos-Funcionais)<br>
 
 
 
@@ -18,11 +18,11 @@ Mariana: <br>
 
 ### 2. Descrição
 
-### 3. Requisitos Não Funcionais
+### 3. Requisitos Funcionais
 
-##### 1.0 -> RF001 - Controle de Ocorrenccias
-##### 1.1 -> RF002 - Controle de Usuários
-##### 1.2 -> RF003 - Controle de Bombeiros
+- 1.0 -> RF001 - Controle de Ocorrenccias
+- 1.1 -> RF002 - Controle de Usuários
+- 1.2 -> RF003 - Controle de Bombeiros
 
 
 
