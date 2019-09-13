@@ -4,8 +4,8 @@
 - [1.Equipe](#1-equipe)<br>
 - [2.Descrição](#2-descrição)<br>
 - [3.Requisitos Funcionais](#3-Requisitos-Funcionais)<br>
-- [4.Requisitos Não Funcionais](#4-Requisitos-Não-Funcionais)<br>5. Protótipos de Telas (Mockups)
-- [5. Protótipos de Telas (Mockups)](#5-Protótipos-de-Telas-(Mockups))
+- [4.Requisitos Não Funcionais](#4-Requisitos-Não-Funcionais)<br>
+- [5. Protótipos de Telas (Mockups)](#5-Protótipos-de-Telas-(Mockups))<br>
 
 
 ## 1. Equipe
