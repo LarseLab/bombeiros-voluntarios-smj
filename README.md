@@ -3,7 +3,8 @@
 ## Sumário
 - [1.Equipe](#1-equipe)<br>
 - [2.Descrição](#2-descrição)<br>
-- [3.Requisitos Não Funcionais](#3-Requisitos-Funcionais)<br>
+- [3.Requisitos Funcionais](#3-Requisitos-Funcionais)<br>
+- [4.Requisitos Não Funcionais](#4-Requisitos-Não-Funcionais)<br>
 
 
 
@@ -15,18 +16,22 @@ Junior de Aguilar:
 Lia Casati Ramaldes: liac.ramaldes@gmail.com<br>
 Lorran Gabriel Araújo: lorrangabriel20@gmail.com<br>
 Mariana: <br>
+
+
 <br><br>
 ### 2. Descrição
 
 blá blá blá blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá 
+
+
 <br><br>
 ### 3. Requisitos Funcionais
 
+<br>
 - 1.0 -> RF001 - Controle de Ocorrenccias
 - 1.1 -> RF002 - Controle de Usuários
 - 1.2 -> RF003 - Controle de Bombeiros
-
-
+<br>
 
 __RF001__ | __Controle de Ocorrencias__ |
 :---------: | ---------- | 
@@ -51,13 +56,11 @@ __Responsável__ |  Larse  |
 __Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
 __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
-
-
+<br>
 - 2.0 -> RF004 - Relatório de usuários
 - 2.1 -> RF005 - Relatório de bombeiros
 - 2.2 -> RF006 - Relatório de ocorrencias
-
-
+<br>
 
 __RF001__ | __Relatório de usuários__ |
 :---------: | ---------- | 
