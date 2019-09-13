@@ -2,7 +2,8 @@
 
 ## Sumário
 - [1.Equipe](#1-equipe)<br>
-- [2.Descrição](#2descrição)<br>
+- [2.Descrição](#2-descrição)<br>
+- [3.Requisitos Não Funcionais](#3-Requisitos-Não-Funcionais)<br>
 
 
 
@@ -15,9 +16,9 @@ Lia Casati Ramaldes: liac.ramaldes@gmail.com<br>
 Lorran Gabriel Araújo: lorrangabriel20@gmail.com<br>
 Mariana: <br>
 
+### 2. Descrição
 
-
-### 2 - Requisitos Não Funcionais
+### 3. Requisitos Não Funcionais
 
 ##### 1.0 -> RF001 - Controle de Ocorrenccias
 ##### 1.1 -> RF002 - Controle de Usuários
