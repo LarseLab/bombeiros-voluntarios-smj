@@ -68,9 +68,9 @@ __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
 <br>
 
-__RF001__ | __Relatório de usuários__ |
+__RF004__ | __Relatório de usuários__ |
 :---------: | ---------- | 
-| __Descrição__ | O sistema deve realizar o controle de ocorrencias, armazenar dados como o endereço da ocorrencias, a data e a hora. A ocorrencias deve ser vinculado ao condutor que a aceitou, e os bombeiros que aceitaram.|
+| __Descrição__ | Sistema deve listar todos os dados dos usuários cadastrados no sistema e também suas últimas ocorrencias registradas|
 __Responsável__ |  Larse  |
 __Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
 __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
@@ -78,23 +78,22 @@ __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
 __RF002__ | __Relatório de bombeiros__ |
 :---------: | ---------- | 
-| __Descrição__ | O sistema deve efetuar o controle dos usuários que fazem a ocorrencia e armazenar informações como nome, tipo de ocorrencia, dados para contato (telefone, email) e o endereço completo.|
+| __Descrição__ | O sistema deve listar as informações referente aos bombeiros.|
+__Responsável__ |  Larse  |
+__Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
+__Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
+
+__RF003__ | __Relatório de ocorrencias__ |
+:---------: | ---------- | 
+| __Descrição__ | O sistema deve listar todas as ocorrencias cadastrados, e todos os detalhes relacionados a ele, como o usuario solicitante, tipo de ocorrencias, condutor responsável, a data e a hora da mesma.| 
 __Responsável__ |  Larse  |
 __Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
 __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
 
-__RF003__ | __Relatório de estimativa__ |
+__RF001__ | __Relatório de estimativa__ |
 :---------: | ---------- | 
-| __Descrição__ | O sistema deve realizar o controle de bombeiros e armazenar informações como nome, CPF, brigada e telefone|
-__Responsável__ |  Larse  |
-__Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
-__Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
-
-
-__RF001__ | __Relatório de usuários__ |
-:---------: | ---------- | 
-| __Descrição__ | O sistema deve realizar o controle de ocorrencias, armazenar dados como o endereço da ocorrencias, a data e a hora. A ocorrencias deve ser vinculado ao condutor que a aceitou, e os bombeiros que aceitaram.|
+| __Descrição__ | O sistema deve listar as informações referente a estimativa de tempo até os bombeiros chegarem no local solicitado.|
 __Responsável__ |  Larse  |
 __Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
 __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
