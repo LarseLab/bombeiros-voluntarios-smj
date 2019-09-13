@@ -11,7 +11,7 @@
 ## 1. Equipe
 
 Aroldo de Sá Vargas Neto: aroldovneto@gmail.com<br>
-Arthur: <br>
+Arthur de Souza Silva Mayerhofer: arthurs.galodoido@gmail.com <br>
 Junior de Aguilar: 
 Lia Casati Ramaldes: liac.ramaldes@gmail.com<br>
 Lorran Gabriel Araújo: lorrangabriel20@gmail.com<br>
@@ -45,7 +45,7 @@ __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
 
 __RF002__ | __Controle de Usuários__ |
-:---------: | ---------- | 
+:---------: | ---------- | arthur
 | __Descrição__ | O sistema deve efetuar o controle dos usuários que fazem a ocorrencia e armazenar informações como nome, tipo de ocorrencia, dados para contato (telefone, email) e o endereço completo.|
 __Responsável__ |  Larse  |
 __Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
@@ -64,6 +64,7 @@ __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 - 2.0 -> RF004 - Relatório de usuários
 - 2.1 -> RF005 - Relatório de bombeiros
 - 2.2 -> RF006 - Relatório de ocorrencias
+- 2.2 -> RF006 - Relatório de estimativa
 
 <br>
 
@@ -83,9 +84,17 @@ __Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
 __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
 
-__RF003__ | __Relatório de ocorrencias__ |
+__RF003__ | __Relatório de estimativa__ |
 :---------: | ---------- | 
 | __Descrição__ | O sistema deve realizar o controle de bombeiros e armazenar informações como nome, CPF, brigada e telefone|
+__Responsável__ |  Larse  |
+__Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
+__Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
+
+
+__RF001__ | __Relatório de usuários__ |
+:---------: | ---------- | 
+| __Descrição__ | O sistema deve realizar o controle de ocorrencias, armazenar dados como o endereço da ocorrencias, a data e a hora. A ocorrencias deve ser vinculado ao condutor que a aceitou, e os bombeiros que aceitaram.|
 __Responsável__ |  Larse  |
 __Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
 __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
