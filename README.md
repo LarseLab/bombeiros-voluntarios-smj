@@ -8,8 +8,7 @@
 
 RF001 | Nome |
 :---------: | ---------- | 
-Descrição|
-
+| Descrição | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa|
 Responsável |aaaaaaaa   |
 Interessados | aaaaaaa     |
 Prioridade |   aaaaaaaa   |
