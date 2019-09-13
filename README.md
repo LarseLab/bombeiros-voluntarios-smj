@@ -21,7 +21,8 @@ Mariana: <br>
 <br><br>
 ### 2. Descrição
 
-blá blá blá blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá 
+A cidade de Santa Maria de Jetiba, localizada no interior do Espirito Santo, possui um corpo de bombeiros voluntário, composto pelos proprios moradores da cidade e que trabalham nas ocorrências da mesma, em sua maioria essas ocorrências estão relacionadas a resgates, incêndios florestais, incêndios estruturais e acidentes veiculares. Para facilitar a comunicação dos bombeiros com a comunidade e auxiliar/otimizar o processo de resolução de uma ocorrência, desenvolvemos um sistema mobile multiplataforma e de fácil utilização, visto que maioria dos moradores de SMJ não possui facilidade na utilização de aplicativos e dispositivos tecnológicos.
+ 
 
 
 <br><br>
