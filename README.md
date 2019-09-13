@@ -36,8 +36,7 @@ __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
 __RF001__ | __Controle de Bombeiros__ |
 :---------: | ---------- | 
-| __Descrição__ | O sistema deve realizar o controle de bombeiros e armazenar informações como nome,
-CPF, brigada e telefone|
+| __Descrição__ | O sistema deve realizar o controle de bombeiros e armazenar informações como nome, CPF, brigada e telefone|
 __Responsável__ |  Larse  |
 __Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
 __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
