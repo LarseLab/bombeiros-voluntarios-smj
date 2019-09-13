@@ -1,12 +1,12 @@
 # bombeiros-voluntarios-smj
 
-### Sumário
+## Sumário
 - [1.Equipe](#1-equipe)<br>
 - [2.Descrição](#2descrição)<br>
 
 
 
-## 1 - Equipe
+## 1. Equipe
 
 Aroldo de Sá Vargas Neto: aroldovneto@gmail.com<br>
 Arthur: <br>
