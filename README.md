@@ -45,7 +45,7 @@ __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
 
 __RF002__ | __Controle de Usuários__ |
-:---------: | ---------- | arthur
+:---------: | ---------- | 
 | __Descrição__ | O sistema deve efetuar o controle dos usuários que fazem a ocorrencia e armazenar informações como nome, tipo de ocorrencia, dados para contato (telefone, email) e o endereço completo.|
 __Responsável__ |  Larse  |
 __Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
