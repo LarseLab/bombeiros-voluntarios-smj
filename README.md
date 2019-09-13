@@ -15,11 +15,11 @@ Junior de Aguilar:
 Lia Casati Ramaldes: liac.ramaldes@gmail.com<br>
 Lorran Gabriel Araújo: lorrangabriel20@gmail.com<br>
 Mariana: <br>
-
+<br><br>
 ### 2. Descrição
 
 blá blá blá blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá 
-
+<br><br>
 ### 3. Requisitos Funcionais
 
 - 1.0 -> RF001 - Controle de Ocorrenccias
@@ -82,7 +82,7 @@ __Responsável__ |  Larse  |
 __Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
 __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
-
+<br><br>
 ### 4. Requisitos Não Funcionais
 
 
