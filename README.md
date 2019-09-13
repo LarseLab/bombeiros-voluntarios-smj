@@ -6,6 +6,12 @@
 
 ### 2 - Requisitos Não Funcionais
 
+##### 1.0 -> Controle de Ocorrenccias
+##### 1.1 -> Controle de Usuários
+##### 1.2 -> Controle de Bombeiros
+
+
+
 __RF001__ | __Controle de Ocorrencias__ |
 :---------: | ---------- | 
 | __Descrição__ | O sistema deve realizar o controle de ocorrencias, armazenar dados como o endereço da ocorrencias, a data e a hora. A ocorrencias deve ser vinculado ao condutor que a aceitou, e os bombeiros que aceitaram.|
