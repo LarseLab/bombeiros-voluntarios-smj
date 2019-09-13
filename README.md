@@ -101,7 +101,33 @@ __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 <br><br>
 ### 4. Requisitos Não Funcionais
 
+__RNF001__ | __Ambiente Operacional__ |
+:---------: | ---------- | 
+| __Descrição__ | O sistema deve ser implementado nos sistemas operacionais Android e IOS.|
+__Responsável__ |  Larse  |
+__Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
+__Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
+__RNF002__ | __Registro de Ocorrência__ |
+:---------: | ---------- | 
+| __Descrição__ | A entrada de dados/preenchimento dos campos para registrar uma ocorrência deve durar no máximo 3 minutos, para usuários que já estão cadastrados na plataforma.|
+__Responsável__ |  Larse  |
+__Interessados__ |   Moradores de Sta Maria de Jetibá     |
+__Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
+
+__RNF003__ | __Usabilidade do Sistema__ |
+:---------: | ---------- | 
+| __Descrição__ | O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.|
+__Responsável__ |  Larse  |
+__Interessados__ |   Bombeiros Voluntarios e Moradores de Sta Maria de Jetibá     |
+__Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
+
+__RNF003__ | __Facilidade de Comunicação__ |
+:---------: | ---------- | 
+| __Descrição__ | O sistema deve facilitar a comunicação entre os bombeiros e a central de atendimento as ocorrências.|
+__Responsável__ |  Larse  |
+__Interessados__ |   Bombeiros Voluntarios de Sta Maria de Jetibá     |
+__Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
 ### 5. Protótipos de Telas
 
