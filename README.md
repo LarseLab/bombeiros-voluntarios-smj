@@ -1,7 +1,7 @@
 # bombeiros-voluntarios-smj
 
 ### Sumário
-- [1.COMPONENTES](#1equipe)<br>
+- [1.Equipe](#1-equipe)<br>
 - [2.Descrição](#2descrição)<br>
 
 
