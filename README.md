@@ -95,3 +95,8 @@ __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
 
 
+### 5. Protótipos de Telas (Mockups)
+
+[Mockup feito com Balsamiq](pdf's/prototipo_bombeiros.pdf)
+
+
