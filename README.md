@@ -11,8 +11,8 @@
 ## 1. Equipe
 
 Aroldo de Sá Vargas Neto: aroldovneto@gmail.com<br>
-Arthur de Souza Silva Mayerhofer: arthurs.galodoido@gmail.com <br>
-Junior de Aguilar: 
+Arthur de Souza Silva Mayerhofer: mayerhofer.tec@gmail.com <br>
+Junior de Aguilar: <br>
 Lia Casati Ramaldes: liac.ramaldes@gmail.com<br>
 Lorran Gabriel Araújo: lorrangabriel20@gmail.com<br>
 Mariana: <br>
