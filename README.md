@@ -18,6 +18,8 @@ Mariana: <br>
 
 ### 2. Descrição
 
+blá blá blá blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá  blá blá blá 
+
 ### 3. Requisitos Funcionais
 
 - 1.0 -> RF001 - Controle de Ocorrenccias
@@ -51,9 +53,9 @@ __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
 
 
-##### 2.0 -> RF004 - Relatório de usuários
-##### 2.1 -> RF005 - Relatório de bombeiros
-##### 2.2 -> RF006 - Relatório de ocorrencias
+- 2.0 -> RF004 - Relatório de usuários
+- 2.1 -> RF005 - Relatório de bombeiros
+- 2.2 -> RF006 - Relatório de ocorrencias
 
 
 
