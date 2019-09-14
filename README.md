@@ -6,7 +6,8 @@
 - [3.Requisitos Funcionais](#3-Requisitos-Funcionais)<br>
 - [4.Requisitos Não Funcionais](#4-Requisitos-Não-Funcionais)<br>
 - [5. Protótipos de Telas (Mockups)](#5-Protótipos-de-Telas)<br>
-
+- [8. Frameworks, linguagens estudas](#8-Frameworks,-linguagens-estudas)<br>
+8. Frameworks, linguagens estudas
 
 ## 1. Equipe
 
@@ -132,5 +133,12 @@ __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 ### 5. Protótipos de Telas
 
 [Mockup feito com Balsamiq](pdf's/prototipo_bombeiros.pdf)
+
+
+### 8. Frameworks, linguagens estudas
+
+- Flutter
+- Ionic
+- Firebase
 
 
