@@ -6,8 +6,7 @@
 - [3.Requisitos Funcionais](#3-Requisitos-Funcionais)<br>
 - [4.Requisitos Não Funcionais](#4-Requisitos-Não-Funcionais)<br>
 - [5. Protótipos de Telas (Mockups)](#5-Protótipos-de-Telas)<br>
-- [8. Frameworks, linguagens estudas](#8-Frameworks,-linguagens-estudas)<br>
-8. Frameworks, linguagens estudas
+- [8. Frameworks, linguagens estudas](#8-Frameworks-linguagens-estudas)<br>
 
 ## 1. Equipe
 
