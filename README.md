@@ -16,6 +16,7 @@ Junior de Aguilar: <br>
 Lia Casati Ramaldes: liac.ramaldes@gmail.com<br>
 Lorran Gabriel Araújo: lorrangabriel20@gmail.com<br>
 Mariana: <br>
+Lucas Cruz Rodrigues Santos: lucascruzrsantos@gmail.com<br>
 
 
 <br><br>
