@@ -137,7 +137,7 @@ __Prioridade__ | [ ] Desejável   [ ] Importante    [ X ] Imprescindível   |
 
 ### 6. Protótipos de icones e logos
 
-![img](images/brasao_bombeiros.jpg) 
+![img](imagens/brasao_bombeiros.jpg) 
 
 ### 8. Frameworks, linguagens estudas
 
